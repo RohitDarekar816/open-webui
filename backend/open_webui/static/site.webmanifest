@@ -1,6 +1,6 @@
 {
-  "name": "Open WebUI",
-  "short_name": "WebUI",
+  "name": "Afintrix",
+  "short_name": "Afintrix",
   "icons": [
     {
       "src": "/static/web-app-manifest-192x192.png",
